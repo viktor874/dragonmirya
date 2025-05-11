@@ -1,0 +1,167 @@
+html {
+  background-color: greenyellow;
+}
+body {
+  font-family: "Shantell Sans", cursive;
+}
+
+header {
+  background: url(https://i.postimg.cc/mkGDYz4S/1654357685-1-pibig-info-p-paryashchie-ostrova-art-krasivo-1.jpg);
+
+  height: 500px;
+  width: 100%;
+  color: whitesmoke;
+  padding: 150px;
+  text-align: center;
+  background-size: cover;
+}
+header h1 {
+  margin: 200px;
+  color: black;
+}
+header img {
+  text-align: center;
+}
+nav {
+  text-align: left;
+  margin-top: -100px;
+  margin-left: -150px;
+  flex-direction: column;
+  display: flex;
+  width: 180px;
+}
+.magic {
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  border-radius: 15px;
+  font-size: 20px;
+}
+nav a {
+  text-decoration: none;
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  border-radius: 5px;
+  font-size: 20px;
+  margin: 20px;
+}
+.bio {
+  margin-top: 20px;
+  color: black;
+}
+.islands {
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  border-radius: 15px;
+}
+.islands1 {
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  border-radius: 15px;
+  border-radius: 15px;
+}
+.islands2 {
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  border-radius: 15px;
+  border-radius: 15px;
+}
+.islands3 {
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  border-radius: 15px;
+  border-radius: 15px;
+}
+.islands4 {
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  border-radius: 15px;
+  border-radius: 15px;
+}
+.text {
+  padding-bottom: 20px;
+}
+div {
+  text-align: center;
+  padding-top: 50px;
+}
+.islandbig {
+  margin-top: 400px;
+}
+.ork {
+  text-align: center;
+}
+.angy {
+  text-align: center;
+}
+.goodie {
+  text-align: center;
+}
+.evil_magic {
+  background: #2a7b9b;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  border-radius: 15px;
+  text-align: left;
+}
+.welcome {
+  font-size: 35px;
+}
+.up {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  background-color: #ffd748;
+  border-radius: 100%;
+  border: 3px solid #62257a;
+  width: 70px;
+  height: 30px;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  text-align: center;
+}
+.up a {
+  text-decoration: none;
+  color: inherit;
+  font-size:50px;
+  font-weight: bold;
+}
